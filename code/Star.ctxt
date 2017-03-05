@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ xVel\ yVel\ objectDiameter\ objectColor\ objLife\ theUniverse
+comment0.target=Star(int,\ int,\ int,\ int,\ int,\ java.awt.Color,\ int,\ Universe)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Star\r\n\r\n\ @param\ xPos\ \ the\ horizontal\ coordinate\ of\ the\ object\r\n\ @param\ yPos\ \ the\ vertical\ coordinate\ of\ the\ object\r\n\ @param\ xVel\ \ the\ horizontal\ speed\ of\ the\ object\r\n\ @param\ yVel\ \ the\ vertical\ speed\ of\ the\ object\r\n\ @param\ objectDiameter\ \ the\ diameter\ (in\ pixels)\ of\ the\ object\r\n\ @param\ objectColor\ \ the\ color\ of\ the\ object\r\n\ @param\ theUniverse\ \ the\ universe\ this\ object\ is\ in\r\n\ @param\ objLife\ \ the\ lifetime\ of\ the\ object\ \r\n\ \r\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\r\n\ Draw\ this\ object\ so\ it\ stays\ on\ the\ canvas\r\n
+numComments=2

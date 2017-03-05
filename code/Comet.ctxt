@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ xVel\ yVel\ objectDiameter\ objectColor\ objLife\ theUniverse
+comment0.target=Comet(int,\ int,\ int,\ int,\ int,\ java.awt.Color,\ int,\ Universe)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Comet\r\n\r\n\ @param\ xPos\ \ the\ horizontal\ coordinate\ of\ the\ object\r\n\ @param\ yPos\ \ the\ vertical\ coordinate\ of\ the\ object\r\n\ @param\ xVel\ \ the\ horizontal\ speed\ of\ the\ object\r\n\ @param\ yVel\ \ the\ vertical\ speed\ of\ the\ object\r\n\ @param\ objectDiameter\ \ the\ diameter\ (in\ pixels)\ of\ the\ object\r\n\ @param\ objectColor\ \ the\ color\ of\ the\ object\r\n\ @param\ theUniverse\ \ the\ universe\ this\ object\ is\ in\r\n\ @param\ objLife\ \ the\ lifetime\ of\ the\ object\ \r\n\ \r\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\r\n\ Move\ this\ object\ according\ to\ its\ position\ and\ speed\ and\ redraw.\r\n\ Checks\ for\ various\ collisions\ between\ comets\ and\ other\ objects.\ \r\n\ \r\n
+comment2.params=
+comment2.target=void\ changeEdge()
+comment2.text=\r\n\ Change\ behaviours\ of\ object\ when\ it\ hits\ an\ edge\r\n\ \r\n
+comment3.params=
+comment3.target=void\ changeMove()
+comment3.text=\r\n\ Change\ behaviours\ of\ object\ while\ it\ moves\r\n\ \r\n
+comment4.params=
+comment4.target=int\ getIndex()
+comment4.text=\r\n\ Return\ the\ current\ index\r\n\ \r\n
+numComments=5
