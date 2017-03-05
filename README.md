@@ -1,4 +1,10 @@
-Universe -   a project to simulate an alternative, finite universe.
+# Universe - a project to simulate an alternative, finite universe.
+
+
+
+
+# Brief Coursework Outline
+A more indepth outline of the coursework can be found in the "Coursework Brief.pdf" file.
 
 Current version wcontains stars, planets, two different types of comets and black holes.
 When comets bounce of the edges of the universe they rebound and change depending on the type
@@ -15,9 +21,7 @@ Collisions follow the following rules;
 - Large cometn --> Small cometm = Large continues on same path, small is destroyed
 - Fast cometn --> Slow cometm = Fast continues on same path, slow is destroyed
 
-This version does net yet include a User Interface.
-
-UP769535
+This version does not yet include a User Interface.
 
 -------------------------------------------------------------------------------------------------------------
 
