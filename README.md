@@ -1,7 +1,8 @@
-# Universe - a project to simulate an alternative, finite universe.
+# Universe Simulation - University Year 1 Programming Coursework
 
+In this coursework we were given some requirements to create a simulation of an alternative universe. Here is my answer to the coursework. 
 
-
+Coursework mark: 80 /100 (70%+ is a First)
 
 # Brief Coursework Outline
 A more indepth outline of the coursework can be found in the "Coursework Brief.pdf" file.
