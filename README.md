@@ -1,4 +1,4 @@
-# Universe Simulation - University Year 1 Programming Coursework
+# Universe Simulation - University Year 1 Programming Coursework (Java)
 
 In this coursework we were given some requirements to create a simulation of an alternative universe. Here is my answer to the coursework. 
 
